@@ -71,3 +71,20 @@ const tripple = a => a * 3;
 // 6) ^ найкоротше записання стрілочної функції із одним аргументом
 
 
+
+// filter, map, every, some, reduce
+
+const object = {
+    ivan: 'persone',
+    ann: 'persone',
+    dog: 'animal',
+    cat: 'animal'
+};
+
+const arr = Object.entries(object)
+.filter(item => item[1] === 'persone')
+.map(item => item[0]);
+
+console.log(arr);
+
+

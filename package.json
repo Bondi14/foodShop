@@ -1,0 +1,22 @@
+{
+  "name": "foodshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bondi14/foodShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bondi14/foodShop/issues"
+  },
+  "homepage": "https://github.com/Bondi14/foodShop#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
